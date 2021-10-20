@@ -1,6 +1,6 @@
 = My Project
 firstname lastname
-1.0.0, yyyy-mm-dd: Some notes
+1.0.0, 21-10-20: Some notes
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
@@ -16,7 +16,6 @@ ifdef::backend-html5[]
 
 == Header 1
 
-Das ist ein test Text.
-
+Hier steht ein Text
 === Header 2
 
